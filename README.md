@@ -5,7 +5,7 @@ This repository is a collection where I store MATH knowledge referenced for my G
 
 - [GCSE maths revision](https://thirdspacelearning.com/secondary-resources/gcse-maths/)
 
-- [3blue1brown](https://www.youtube.com/@3blue1brown)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
 - [3Blue1Brown 한국어](https://www.youtube.com/@3Blue1BrownKR)
 
@@ -14,6 +14,12 @@ This repository is a collection where I store MATH knowledge referenced for my G
 - [선형대수학 | 이상엽Math](https://www.youtube.com/watch?v=525w2Zqh13M&list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
 
 - [전공수학 - 대학수학의 기초/ 미적분 강의 (3시간) | 권태원큐스터디_mathlatte](https://youtu.be/NMvfKKz-fH8?si=k8icbEIxlCxatYer)
+
+- [Quaternions and 3d rotation, explained interactively | 3Blue1Brown](https://youtu.be/zjMuIxRvygQ?si=qpDH2Tx8s8Kf36Wj)
+
+- [Visualizing quaternions (4d numbers) with stereographic projection | 3Blue1Brown](https://youtu.be/d4EgbgTm0Bg?si=1fzsno_uZ5hd8-g5)
+
+- [FiFA 짐벌락 현상]([https://youtu.be/zc8b2Jo7mno?si=3F6ZliK9ee5TTW3J](https://youtu.be/cDKFCvQU1Nc?si=2h_SplJXnxOppKeg)
 
 ## Story
 
