@@ -13,13 +13,20 @@ This repository is a collection where I store MATH knowledge referenced for my G
 
 - [선형대수학 | 이상엽Math](https://www.youtube.com/watch?v=525w2Zqh13M&list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
 
+- [혁펜하임의 "보이는" 선형대수학 시리즈 (Linear Algebra) | 혁펜하임](https://www.youtube.com/watch?v=7vV2SF8DyQE&list=PL_iJu012NOxdZDxoGsYidMf2_bERIQaP0&ab_channel=%ED%98%81%ED%8E%9C%ED%95%98%EC%9E%84%7CAI%26%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%95%EC%9D%98)
+
 - [전공수학 - 대학수학의 기초/ 미적분 강의 (3시간) | 권태원큐스터디_mathlatte](https://youtu.be/NMvfKKz-fH8?si=k8icbEIxlCxatYer)
 
 - [Quaternions and 3d rotation, explained interactively | 3Blue1Brown](https://youtu.be/zjMuIxRvygQ?si=qpDH2Tx8s8Kf36Wj)
 
 - [Visualizing quaternions (4d numbers) with stereographic projection | 3Blue1Brown](https://youtu.be/d4EgbgTm0Bg?si=1fzsno_uZ5hd8-g5)
 
-- [FiFA 짐벌락 현상]([https://youtu.be/zc8b2Jo7mno?si=3F6ZliK9ee5TTW3J](https://youtu.be/cDKFCvQU1Nc?si=2h_SplJXnxOppKeg)
+- [Euler (gimbal lock) Explained | GuerrillaCG](https://youtu.be/zc8b2Jo7mno?si=3F6ZliK9ee5TTW3J))
+
+- [FiFA 짐벌락 현상](https://youtu.be/cDKFCvQU1Nc?si=2h_SplJXnxOppKeg)
+
+- [오일러와 쿼터니언을 아시나요~?! (Euler & Quaternion) | 3D MAX 독학애니메이션](https://youtu.be/owdRmhIq6vk?si=Im8TmTmxKEGsWRM6)
+
 
 ## Story
 
