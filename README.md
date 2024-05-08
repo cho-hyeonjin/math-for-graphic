@@ -28,7 +28,7 @@ This repository is a collection where I store MATH knowledge referenced for my G
 - [오일러와 쿼터니언을 아시나요~?! (Euler & Quaternion) | 3D MAX 독학애니메이션](https://youtu.be/owdRmhIq6vk?si=Im8TmTmxKEGsWRM6)
 
 
-## Story
+## Stories
 
 - [아르키메데스는 원주율을 어떻게 구했을까? | EBSDocumentary (EBS 다큐)](https://youtu.be/CITl7LhMfQg?si=WmrejmWxWGQ980kp)
 
@@ -41,3 +41,7 @@ This repository is a collection where I store MATH knowledge referenced for my G
 - [세계3대 수학자인 찐천재 '가우스'가 발견한 수는 무엇일까? | EBS 컬렉션 - 사이언스](https://youtu.be/wzBLDLcPMsY?si=yOnqh19nV2K9BS94)
 
 - [뉴턴 vs 라이프니치의 미적분 이야기 | EBS 컬렉션 - 사이언스](https://youtu.be/GJO-52Xm6JU?si=up5hKj4eWAssZxhn)
+
+- ['무한'이란 무엇일까? - '무한' 쉽게 이해하기(1) | EBS 컬렉션 - 사이언스](https://youtu.be/ote51Cey-Tw?si=jHgrGFpiPfh_uzCz)
+
+- [신의 영역 무한, 집합론 창시자 칸토어 - '무한' 쉽게 이해하기(2) | EBS 컬렉션 - 사이언스](https://youtu.be/94IVeGxeTGo?si=hRISbnQZZQyHd6Ek)
