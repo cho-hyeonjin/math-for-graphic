@@ -47,3 +47,5 @@ This repository is a collection where I store MATH knowledge referenced for my G
 - [신의 영역 무한, 집합론 창시자 칸토어 - '무한' 쉽게 이해하기(2) | EBS 컬렉션 - 사이언스](https://youtu.be/94IVeGxeTGo?si=hRISbnQZZQyHd6Ek)
 
 - [삼각비의 역사 | EBS Math](https://youtu.be/etOjk-y7CYs?si=hgbJv4IvtbM3Se-0)
+
+- [삼각비의 뜻과 호도법 - 정승제의 말로만 듣던 삼각함수의 신(神) | EBSi](https://youtu.be/xqXKRT6ZMow?si=cJQN1hiEBp0ymQVg)
