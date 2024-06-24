@@ -45,3 +45,5 @@ This repository is a collection where I store MATH knowledge referenced for my G
 - ['무한'이란 무엇일까? - '무한' 쉽게 이해하기(1) | EBS 컬렉션 - 사이언스](https://youtu.be/ote51Cey-Tw?si=jHgrGFpiPfh_uzCz)
 
 - [신의 영역 무한, 집합론 창시자 칸토어 - '무한' 쉽게 이해하기(2) | EBS 컬렉션 - 사이언스](https://youtu.be/94IVeGxeTGo?si=hRISbnQZZQyHd6Ek)
+
+- [삼각비의 역사 | EBS Math](https://youtu.be/etOjk-y7CYs?si=hgbJv4IvtbM3Se-0)
