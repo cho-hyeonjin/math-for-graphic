@@ -29,6 +29,11 @@ This repository is a collection where I store MATH knowledge referenced for my G
 
 - [삼각비의 뜻과 호도법 - 정승제의 말로만 듣던 삼각함수의 신(神) | EBSi](https://youtu.be/xqXKRT6ZMow?si=cJQN1hiEBp0ymQVg)
 
+- [What are Radians? | Radian (Unit of Plane Angle) | Infinity Learn](https://youtu.be/cgPYLJ-s5II?si=KwcrmP6bBEYdLO_V)
+
+- [Trigonometry Concepts - Don't Memorize! Visualize!](https://youtu.be/mhd9FXYdf4s?si=mEUvKIEwC9TEgHin)
+
+
 ## Stories
 
 - [아르키메데스는 원주율을 어떻게 구했을까? | EBSDocumentary (EBS 다큐)](https://youtu.be/CITl7LhMfQg?si=WmrejmWxWGQ980kp)
